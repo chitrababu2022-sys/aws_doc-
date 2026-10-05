@@ -1,0 +1,48 @@
+Chitra Mahalingam
+329534899115
+112 Thangappapuram, Guduvanchery
+chennai, Tamilnadu 603202
+India
+8825756364
+05-07-2023
+
+Amazon Web Services
+Account Section
+Amazon Web Services, Inc. 
+410 Terry Avenue North, 
+Seattle, WA 98109-5210, U.S.A.
+
+
+Subject: Request for Waiver of AWS Services Charges
+
+Dear AWS Account Section,
+
+I hope this letter finds you well. I am writing to request your kind consideration for a waiver of charges incurred on my AWS account for the services listed below:
+
+Relational Database Service:
+
+USD 172.65
+USD 146.31
+USD 26.34
+Key Management Service:
+
+USD 0.15
+USD 0.13
+USD 0.02
+I would like to explain the circumstances that led to these charges. I have been using AWS services for educational purposes and, unfortunately, due to my limited knowledge and understanding of the platform, I unintentionally incurred these expenses.
+
+As a student, I have been utilizing AWS services to enhance my understanding of cloud computing and gain practical experience. However, I was unaware of the potential costs associated with certain services and did not adequately manage the resources or disable them after use. Consequently, I inadvertently exceeded the free tier limits, resulting in the charges mentioned above.
+
+I genuinely regret this oversight and assure you that it was never my intention to misuse the AWS services or create unnecessary costs. I understand the importance of responsible resource management and recognize my responsibility to be more diligent in handling the services provided.
+
+In light of the above, I kindly request your consideration for a waiver of the charges associated with the mentioned services. I assure you that this experience has served as a valuable lesson, and I am committed to learning from it to avoid similar situations in the future.
+
+I would be grateful if you could review my request and provide a favorable response. I am more than willing to provide any additional information or documentation required to support my case. Please feel free to contact me at the provided email address or phone number should you require further clarification.
+
+Thank you for your attention to this matter. I greatly appreciate your understanding and consideration.
+
+Yours sincerely,
+
+Chitra Mahalingam
+
+https://support.console.aws.amazon.com/support/home#/case/?displayId=13212000891&language=en
